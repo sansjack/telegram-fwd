@@ -1,5 +1,7 @@
 # How to use
 
+`pip install -r requirements.txt`
+
 Follow the `.env.example` file and rename it to .env or make a new one called `.env`
 
 A client app will need to be made at https://my.telegram.org/auth?to=apps
