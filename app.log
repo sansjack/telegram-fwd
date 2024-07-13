@@ -1,0 +1,589 @@
+2024-07-13 19:11:12,536 - __main__ - INFO - Listening for messages...
+2024-07-13 19:11:12,537 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:11:12,538 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:11:12,539 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:11:12,539 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:13:08,372 - __main__ - INFO - Listening for messages...
+2024-07-13 19:13:08,372 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:13:08,374 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:13:08,376 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:13:08,376 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:13:38,159 - __main__ - INFO - Bot client started
+2024-07-13 19:13:38,159 - __main__ - INFO - User client started
+2024-07-13 19:13:38,159 - __main__ - INFO - Listening for messages...
+2024-07-13 19:13:38,160 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:13:38,161 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:13:38,162 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:13:38,162 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:13:53,763 - __main__ - INFO - Bot client started
+2024-07-13 19:13:53,764 - __main__ - INFO - User client started
+2024-07-13 19:13:53,764 - __main__ - INFO - Listening for messages...
+2024-07-13 19:13:53,764 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:13:53,765 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:13:53,766 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:13:53,766 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:14:20,966 - __main__ - INFO - Bot client started
+2024-07-13 19:14:20,966 - __main__ - INFO - User client started
+2024-07-13 19:14:20,966 - __main__ - INFO - Listening for messages...
+2024-07-13 19:14:20,966 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:14:20,967 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:14:20,968 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:14:20,968 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:21:59,543 - __main__ - INFO - Bot client started
+2024-07-13 19:21:59,543 - __main__ - INFO - User client started
+2024-07-13 19:21:59,543 - __main__ - INFO - Listening for messages...
+2024-07-13 19:21:59,543 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:21:59,544 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:21:59,544 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:21:59,544 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:22:09,692 - __main__ - INFO - Bot client started
+2024-07-13 19:22:09,692 - __main__ - INFO - User client started
+2024-07-13 19:22:09,692 - __main__ - INFO - Listening for messages...
+2024-07-13 19:22:09,693 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:22:09,693 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:22:09,695 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:22:09,695 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:22:14,283 - __main__ - INFO - Bot client started
+2024-07-13 19:22:14,283 - __main__ - INFO - User client started
+2024-07-13 19:22:14,283 - __main__ - INFO - Listening for messages...
+2024-07-13 19:22:14,284 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:22:14,284 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:22:14,285 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:22:14,285 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:22:36,614 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-07-13 19:22:39,069 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-07-13 19:23:22,292 - __main__ - INFO - Listening for messages...
+2024-07-13 19:23:22,293 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:23:22,294 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:23:22,295 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:23:22,295 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:25:45,505 - __main__ - ERROR - Unhandled exception: name 'STARTUP_RETRIES' is not defined
+2024-07-13 19:25:45,505 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:26:27,505 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-07-13 19:26:27,716 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-07-13 19:26:32,176 - telethon.client.users - INFO - Phone migrated to 4
+2024-07-13 19:26:32,176 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2024-07-13 19:26:32,419 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-07-13 19:26:32,420 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-07-13 19:26:32,420 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:26:34,886 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:26:36,073 - __main__ - INFO - Bot client started
+2024-07-13 19:26:36,074 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-07-13 19:26:38,636 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-07-13 19:26:40,013 - telethon.client.users - INFO - Phone migrated to 4
+2024-07-13 19:26:40,262 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2024-07-13 19:26:40,266 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-07-13 19:26:40,267 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-07-13 19:26:40,268 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:26:42,192 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:27:08,805 - __main__ - INFO - User client started
+2024-07-13 19:27:08,806 - __main__ - INFO - Listening for messages...
+2024-07-13 19:28:45,828 - __main__ - INFO - Received message: heyhey
+2024-07-13 19:28:46,297 - __main__ - INFO - Forwarded message: heyhey
+2024-07-13 19:29:56,678 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-07-13 19:29:56,681 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:29:56,682 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:29:57,343 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-07-13 19:29:57,343 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:29:57,344 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:29:58,567 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:29:58,766 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:29:59,867 - __main__ - INFO - Bot client started
+2024-07-13 19:29:59,867 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:30:00,084 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:30:01,191 - __main__ - INFO - User client started
+2024-07-13 19:30:01,191 - __main__ - INFO - Listening for messages...
+2024-07-13 19:30:10,880 - __main__ - INFO - Received message: heyyyy
+2024-07-13 19:30:11,149 - __main__ - INFO - Forwarded message: heyyyy
+2024-07-13 19:30:30,689 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-07-13 19:30:30,691 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:30:30,691 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:30:31,437 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-07-13 19:30:31,437 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:30:31,438 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:30:32,834 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:30:33,035 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:30:34,460 - __main__ - INFO - Bot client started
+2024-07-13 19:30:34,461 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:30:34,669 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:30:35,852 - __main__ - INFO - User client started
+2024-07-13 19:30:35,852 - __main__ - INFO - Listening for messages...
+2024-07-13 19:32:15,590 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-07-13 19:32:15,592 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:32:15,592 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:32:16,407 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-07-13 19:32:16,408 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:32:16,408 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:32:19,724 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:32:19,922 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:33:21,440 - __main__ - ERROR - Failed to start bot client on attempt 1/3: 'coroutine' object has no attribute 'connect'
+2024-07-13 19:33:39,766 - __main__ - INFO - Bot client started
+2024-07-13 19:33:39,767 - __main__ - ERROR - Failed to start user client on attempt 1/3: Cannot send requests while disconnected
+2024-07-13 19:33:43,464 - __main__ - INFO - Bot client started
+2024-07-13 19:33:43,465 - __main__ - ERROR - Failed to start user client on attempt 1/3: Cannot send requests while disconnected
+2024-07-13 19:36:27,521 - __main__ - INFO - Bot client started
+2024-07-13 19:36:27,521 - __main__ - INFO - User client started
+2024-07-13 19:36:27,521 - __main__ - INFO - Listening for messages...
+2024-07-13 19:36:27,522 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:36:27,523 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-07-13 19:36:27,524 - __main__ - ERROR - Unhandled exception: Cannot send requests while disconnected
+2024-07-13 19:36:27,524 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:36:35,681 - __main__ - ERROR - Failed to start bot client on attempt 1/3: 'coroutine' object has no attribute 'connect'
+2024-07-13 19:36:40,683 - __main__ - ERROR - Failed to start bot client on attempt 2/3: 'coroutine' object has no attribute 'connect'
+2024-07-13 19:38:48,966 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:38:48,976 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:38:48,987 - __main__ - ERROR - Failed to start bot client on attempt 1/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:38:53,990 - __main__ - ERROR - Failed to start bot client on attempt 2/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:38:58,993 - __main__ - ERROR - Failed to start bot client on attempt 3/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:39:00,605 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:39:00,607 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:39:00,609 - __main__ - ERROR - Failed to start bot client on attempt 1/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:40:54,933 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:40:54,935 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:40:54,938 - __main__ - ERROR - Failed to start bot client on attempt 1/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:41:05,432 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:41:05,433 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:41:05,435 - __main__ - ERROR - Failed to start bot client on attempt 1/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:41:10,437 - __main__ - ERROR - Failed to start bot client on attempt 2/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:41:15,443 - __main__ - ERROR - Failed to start bot client on attempt 3/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:41:20,447 - __main__ - ERROR - Unhandled exception: Failed to start bot client after multiple attempts
+2024-07-13 19:41:20,449 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:41:42,822 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:41:42,827 - __main__ - ERROR - Failed to start bot client on attempt 1/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:41:47,830 - __main__ - ERROR - Failed to start bot client on attempt 2/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:41:52,840 - __main__ - ERROR - Failed to start bot client on attempt 3/3: There is no current event loop in thread 'asyncio_0'.
+2024-07-13 19:42:14,084 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:42:14,090 - __main__ - ERROR - Failed to start bot client on attempt 1/3: wait_for() missing 1 required positional argument: 'timeout'
+2024-07-13 19:42:21,396 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:42:21,397 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:42:21,397 - telethon.network.mtprotosender - DEBUG - Connection attempt 1...
+2024-07-13 19:42:21,599 - telethon.network.mtprotosender - DEBUG - Connection success!
+2024-07-13 19:42:21,599 - telethon.network.mtprotosender - DEBUG - Starting send loop
+2024-07-13 19:42:21,599 - telethon.network.mtprotosender - DEBUG - Starting receive loop
+2024-07-13 19:42:21,599 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:42:21,603 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:21,603 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084414646721652 to InvokeWithLayerRequest (1074d2af0)
+2024-07-13 19:42:21,603 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:42:21,609 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:21,609 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:21,610 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:21,811 - telethon.network.mtprotosender - DEBUG - Handling bad salt for message 7391084414646721652
+2024-07-13 19:42:21,811 - telethon.network.mtprotosender - DEBUG - 1 message(s) will be resent
+2024-07-13 19:42:21,812 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:21,812 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084415480213932 to InvokeWithLayerRequest (1074d2af0)
+2024-07-13 19:42:21,812 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:42:21,812 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:21,812 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:21,812 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084415482037360 to MsgsAck (1074d2c10)
+2024-07-13 19:42:21,812 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:42:21,813 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:21,813 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:22,014 - telethon.network.mtprotosender - DEBUG - Handling container
+2024-07-13 19:42:22,014 - telethon.network.mtprotosender - DEBUG - Handling new session created
+2024-07-13 19:42:22,014 - telethon.network.mtprotosender - DEBUG - Handling acknowledge for [7391084415480213932]
+2024-07-13 19:42:22,014 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:22,040 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084415480213932
+2024-07-13 19:42:22,040 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:22,040 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084416689093048 to GetUsersRequest (1074d2f70)
+2024-07-13 19:42:22,040 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:42:22,040 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:22,040 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:22,040 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084416689997132 to MsgsAck (1074d2b80)
+2024-07-13 19:42:22,040 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2024-07-13 19:42:22,041 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:22,041 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:22,252 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084416689093048
+2024-07-13 19:42:22,252 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:22,252 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084417537984308 to GetStateRequest (1074d2f70)
+2024-07-13 19:42:22,252 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 20 bytes for sending
+2024-07-13 19:42:22,253 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:22,253 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:22,253 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084417539192612 to MsgsAck (1074d2b20)
+2024-07-13 19:42:22,253 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:42:22,253 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:22,253 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:22,460 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084417537984308
+2024-07-13 19:42:22,460 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:22,460 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084418370204384 to GetUsersRequest (1074d2a90)
+2024-07-13 19:42:22,460 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:42:22,461 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:22,461 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:22,461 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084418371488984 to MsgsAck (1074ee1c0)
+2024-07-13 19:42:22,461 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:42:22,461 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:22,461 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:22,673 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084418370204384
+2024-07-13 19:42:22,673 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:22,674 - __main__ - ERROR - Failed to start bot client on attempt 1/3: wait_for() missing 1 required positional argument: 'timeout'
+2024-07-13 19:42:51,173 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:42:51,175 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:42:51,175 - telethon.network.mtprotosender - DEBUG - Connection attempt 1...
+2024-07-13 19:42:51,379 - telethon.network.mtprotosender - DEBUG - Connection success!
+2024-07-13 19:42:51,379 - telethon.network.mtprotosender - DEBUG - Starting send loop
+2024-07-13 19:42:51,379 - telethon.network.mtprotosender - DEBUG - Starting receive loop
+2024-07-13 19:42:51,379 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:42:51,381 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:51,381 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084542605248096 to InvokeWithLayerRequest (10433e670)
+2024-07-13 19:42:51,381 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:42:51,381 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:51,381 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:51,381 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:51,585 - telethon.network.mtprotosender - DEBUG - Handling bad salt for message 7391084542605248096
+2024-07-13 19:42:51,585 - telethon.network.mtprotosender - DEBUG - 1 message(s) will be resent
+2024-07-13 19:42:51,585 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:51,585 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084543424644112 to InvokeWithLayerRequest (10433e670)
+2024-07-13 19:42:51,586 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:42:51,586 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:51,586 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:51,586 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084543425940156 to MsgsAck (10433e790)
+2024-07-13 19:42:51,586 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:42:51,586 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:51,586 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:51,790 - telethon.network.mtprotosender - DEBUG - Handling container
+2024-07-13 19:42:51,790 - telethon.network.mtprotosender - DEBUG - Handling new session created
+2024-07-13 19:42:51,790 - telethon.network.mtprotosender - DEBUG - Handling acknowledge for [7391084543424644112]
+2024-07-13 19:42:51,790 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:51,819 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084543424644112
+2024-07-13 19:42:51,819 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:51,820 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084544361252428 to GetUsersRequest (10433ed60)
+2024-07-13 19:42:51,820 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:42:51,820 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:51,820 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:51,820 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084544362204196 to MsgsAck (10433e700)
+2024-07-13 19:42:51,820 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2024-07-13 19:42:51,820 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:51,820 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:52,041 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084544361252428
+2024-07-13 19:42:52,041 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:52,042 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084545544787648 to GetStateRequest (10433ed60)
+2024-07-13 19:42:52,042 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 20 bytes for sending
+2024-07-13 19:42:52,042 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:52,043 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:52,043 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084545548296216 to MsgsAck (10433e370)
+2024-07-13 19:42:52,043 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:42:52,043 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:52,043 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:52,254 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084545544787648
+2024-07-13 19:42:52,255 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:52,255 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084546397576572 to GetUsersRequest (10433e610)
+2024-07-13 19:42:52,255 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:42:52,255 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:52,255 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:52,255 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084546398619892 to MsgsAck (104358040)
+2024-07-13 19:42:52,255 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:42:52,256 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:52,256 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:52,506 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084546397576572
+2024-07-13 19:42:52,507 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:52,508 - __main__ - ERROR - Failed to start bot client on attempt 1/3: wait_for() missing 1 required positional argument: 'timeout'
+2024-07-13 19:42:57,511 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084568897436516 to GetUsersRequest (10433ed90)
+2024-07-13 19:42:57,512 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:42:57,513 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:57,513 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:57,513 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084568904799832 to MsgsAck (10433e610)
+2024-07-13 19:42:57,513 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:42:57,514 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:42:57,514 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:42:57,727 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084568897436516
+2024-07-13 19:42:57,727 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:42:57,728 - __main__ - ERROR - Failed to start bot client on attempt 2/3: wait_for() missing 1 required positional argument: 'timeout'
+2024-07-13 19:43:02,731 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084591250009084 to GetUsersRequest (104358310)
+2024-07-13 19:43:02,731 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:43:02,732 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:02,732 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:02,732 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084591254776504 to MsgsAck (10433ed90)
+2024-07-13 19:43:02,732 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:02,732 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:02,732 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:02,949 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084591250009084
+2024-07-13 19:43:02,950 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:02,950 - __main__ - ERROR - Failed to start bot client on attempt 3/3: wait_for() missing 1 required positional argument: 'timeout'
+2024-07-13 19:43:07,952 - __main__ - ERROR - Unhandled exception: Failed to start bot client after multiple attempts
+2024-07-13 19:43:07,952 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:43:13,134 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:43:13,136 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:43:13,136 - telethon.network.mtprotosender - DEBUG - Connection attempt 1...
+2024-07-13 19:43:13,341 - telethon.network.mtprotosender - DEBUG - Connection success!
+2024-07-13 19:43:13,341 - telethon.network.mtprotosender - DEBUG - Starting send loop
+2024-07-13 19:43:13,341 - telethon.network.mtprotosender - DEBUG - Starting receive loop
+2024-07-13 19:43:13,341 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:43:13,343 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:13,343 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084636943768908 to InvokeWithLayerRequest (1053f29a0)
+2024-07-13 19:43:13,343 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:43:13,343 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:13,343 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:13,343 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:13,548 - telethon.network.mtprotosender - DEBUG - Handling bad salt for message 7391084636943768908
+2024-07-13 19:43:13,549 - telethon.network.mtprotosender - DEBUG - 1 message(s) will be resent
+2024-07-13 19:43:13,549 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:13,549 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084637766753604 to InvokeWithLayerRequest (1053f29a0)
+2024-07-13 19:43:13,549 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:43:13,549 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:13,549 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:13,549 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084637767928532 to MsgsAck (1053f2ac0)
+2024-07-13 19:43:13,549 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:13,549 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:13,549 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:13,754 - telethon.network.mtprotosender - DEBUG - Handling container
+2024-07-13 19:43:13,754 - telethon.network.mtprotosender - DEBUG - Handling new session created
+2024-07-13 19:43:13,755 - telethon.network.mtprotosender - DEBUG - Handling acknowledge for [7391084637766753604]
+2024-07-13 19:43:13,755 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:13,848 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084637766753604
+2024-07-13 19:43:13,849 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:13,850 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084638970356396 to GetUsersRequest (1053f2e80)
+2024-07-13 19:43:13,850 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:43:13,850 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:13,850 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:13,850 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084638973048620 to MsgsAck (1053f2a30)
+2024-07-13 19:43:13,850 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2024-07-13 19:43:13,851 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:13,851 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:14,235 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084638970356396
+2024-07-13 19:43:14,235 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:14,236 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084640812516264 to GetStateRequest (1053f2e80)
+2024-07-13 19:43:14,236 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 20 bytes for sending
+2024-07-13 19:43:14,237 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:14,237 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:14,237 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084640813808496 to MsgsAck (1053f2df0)
+2024-07-13 19:43:14,237 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:14,237 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:14,237 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:14,623 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084640812516264
+2024-07-13 19:43:14,624 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:14,625 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084642365491920 to GetUsersRequest (1053f2940)
+2024-07-13 19:43:14,625 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:43:14,625 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:14,625 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:14,625 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084642367640548 to MsgsAck (10540f070)
+2024-07-13 19:43:14,625 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:14,626 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:14,626 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:14,929 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084642365491920
+2024-07-13 19:43:14,930 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:14,931 - __main__ - ERROR - Failed to start bot client on attempt 1/3: An asyncio.Future, a coroutine or an awaitable is required
+2024-07-13 19:43:19,937 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084665086508936 to GetUsersRequest (1053f2ca0)
+2024-07-13 19:43:19,939 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:43:19,939 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:19,940 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:19,944 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084665119244760 to MsgsAck (1053f2940)
+2024-07-13 19:43:19,944 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:19,946 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:19,946 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:20,156 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084665086508936
+2024-07-13 19:43:20,156 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:20,157 - __main__ - ERROR - Failed to start bot client on attempt 2/3: An asyncio.Future, a coroutine or an awaitable is required
+2024-07-13 19:43:25,161 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084687754564244 to GetUsersRequest (10540f640)
+2024-07-13 19:43:25,163 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:43:25,163 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:25,163 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:25,164 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084687765752752 to MsgsAck (1053f2ca0)
+2024-07-13 19:43:25,164 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:25,164 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:25,164 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:25,376 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084687754564244
+2024-07-13 19:43:25,376 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:25,377 - __main__ - ERROR - Failed to start bot client on attempt 3/3: An asyncio.Future, a coroutine or an awaitable is required
+2024-07-13 19:43:30,379 - __main__ - ERROR - Unhandled exception: Failed to start bot client after multiple attempts
+2024-07-13 19:43:30,380 - __main__ - ERROR - Bot shutting down due to errors. Please check the logs for more details.
+2024-07-13 19:43:32,362 - asyncio - DEBUG - Using selector: KqueueSelector
+2024-07-13 19:43:32,363 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:43:32,363 - telethon.network.mtprotosender - DEBUG - Connection attempt 1...
+2024-07-13 19:43:32,567 - telethon.network.mtprotosender - DEBUG - Connection success!
+2024-07-13 19:43:32,568 - telethon.network.mtprotosender - DEBUG - Starting send loop
+2024-07-13 19:43:32,568 - telethon.network.mtprotosender - DEBUG - Starting receive loop
+2024-07-13 19:43:32,568 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:43:32,571 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:32,571 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084719462016436 to InvokeWithLayerRequest (106d5a970)
+2024-07-13 19:43:32,572 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:43:32,572 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:32,572 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:32,572 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:32,779 - telethon.network.mtprotosender - DEBUG - Handling bad salt for message 7391084719462016436
+2024-07-13 19:43:32,780 - telethon.network.mtprotosender - DEBUG - 1 message(s) will be resent
+2024-07-13 19:43:32,780 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:32,780 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084720297939632 to InvokeWithLayerRequest (106d5a970)
+2024-07-13 19:43:32,781 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:43:32,781 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:32,781 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:32,781 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084720301776264 to MsgsAck (106d5aa90)
+2024-07-13 19:43:32,781 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:32,782 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:32,782 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:32,988 - telethon.network.mtprotosender - DEBUG - Handling container
+2024-07-13 19:43:32,989 - telethon.network.mtprotosender - DEBUG - Handling new session created
+2024-07-13 19:43:32,989 - telethon.network.mtprotosender - DEBUG - Handling acknowledge for [7391084720297939632]
+2024-07-13 19:43:32,989 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:33,003 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084720297939632
+2024-07-13 19:43:33,003 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:33,004 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084721487386680 to GetUsersRequest (106d5ae50)
+2024-07-13 19:43:33,004 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:43:33,005 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:33,005 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:33,005 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084721491822220 to MsgsAck (106d5aa00)
+2024-07-13 19:43:33,005 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2024-07-13 19:43:33,006 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:33,006 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:33,221 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084721487386680
+2024-07-13 19:43:33,222 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:33,223 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084722364119508 to GetStateRequest (106d5ae50)
+2024-07-13 19:43:33,224 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 20 bytes for sending
+2024-07-13 19:43:33,225 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:33,225 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:33,226 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084722373826956 to MsgsAck (106d5adc0)
+2024-07-13 19:43:33,227 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:33,229 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:33,229 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:33,440 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084722364119508
+2024-07-13 19:43:33,440 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:33,440 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084723232947328 to GetUsersRequest (106d5a910)
+2024-07-13 19:43:33,440 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:43:33,441 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:33,441 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:33,441 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084723234038328 to MsgsAck (106d77040)
+2024-07-13 19:43:33,441 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:33,441 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:33,441 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:33,695 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084723232947328
+2024-07-13 19:43:33,697 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:33,697 - __main__ - INFO - Bot client started
+2024-07-13 19:43:33,697 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:43:33,697 - telethon.network.mtprotosender - DEBUG - Connection attempt 1...
+2024-07-13 19:43:33,894 - telethon.network.mtprotosender - DEBUG - Connection success!
+2024-07-13 19:43:33,894 - telethon.network.mtprotosender - DEBUG - Starting send loop
+2024-07-13 19:43:33,894 - telethon.network.mtprotosender - DEBUG - Starting receive loop
+2024-07-13 19:43:33,894 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:43:33,895 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:33,895 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084725052746748 to InvokeWithLayerRequest (106d77ca0)
+2024-07-13 19:43:33,895 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:43:33,896 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:33,896 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:33,896 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:34,094 - telethon.network.mtprotosender - DEBUG - Handling bad salt for message 7391084725052746748
+2024-07-13 19:43:34,094 - telethon.network.mtprotosender - DEBUG - 1 message(s) will be resent
+2024-07-13 19:43:34,094 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:34,094 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084726142407040 to InvokeWithLayerRequest (106d77ca0)
+2024-07-13 19:43:34,094 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 76 bytes for sending
+2024-07-13 19:43:34,094 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:34,094 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:34,094 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084726143514256 to MsgsAck (106d77d60)
+2024-07-13 19:43:34,094 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:34,095 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:34,095 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:34,294 - telethon.network.mtprotosender - DEBUG - Handling container
+2024-07-13 19:43:34,294 - telethon.network.mtprotosender - DEBUG - Handling new session created
+2024-07-13 19:43:34,294 - telethon.network.mtprotosender - DEBUG - Handling acknowledge for [7391084726142407040]
+2024-07-13 19:43:34,294 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:34,393 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084726142407040
+2024-07-13 19:43:34,393 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:34,394 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084727340610124 to GetUsersRequest (106d77f70)
+2024-07-13 19:43:34,394 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:43:34,394 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:34,394 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:34,394 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084727341578104 to MsgsAck (106d77d00)
+2024-07-13 19:43:34,394 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 60 bytes for sending
+2024-07-13 19:43:34,394 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:34,394 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:34,616 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084727340610124
+2024-07-13 19:43:34,616 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:34,618 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084728236994364 to GetStateRequest (106d77f70)
+2024-07-13 19:43:34,618 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 20 bytes for sending
+2024-07-13 19:43:34,618 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:34,618 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:34,618 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084728239437680 to MsgsAck (106d77f40)
+2024-07-13 19:43:34,618 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:34,619 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:34,619 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:34,822 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084728236994364
+2024-07-13 19:43:34,822 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:34,823 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084729059021572 to GetUsersRequest (106d77c40)
+2024-07-13 19:43:34,823 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 32 bytes for sending
+2024-07-13 19:43:34,824 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:34,824 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:34,825 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084729064737896 to MsgsAck (106d865b0)
+2024-07-13 19:43:34,825 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:34,825 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:34,826 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:35,045 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084729059021572
+2024-07-13 19:43:35,046 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:35,048 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084730253033856 to SendMessageRequest (106d77c40)
+2024-07-13 19:43:35,048 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 84 bytes for sending
+2024-07-13 19:43:35,048 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:35,049 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:35,049 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084730255733708 to MsgsAck (106d5a8e0)
+2024-07-13 19:43:35,049 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:35,049 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:35,049 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:35,278 - telethon.network.mtprotosender - DEBUG - Handling update UpdateShortMessage
+2024-07-13 19:43:35,278 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:35,278 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084730253033856
+2024-07-13 19:43:35,279 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:35,279 - __main__ - INFO - User client started
+2024-07-13 19:43:35,279 - __main__ - INFO - Listening for messages...
+2024-07-13 19:43:35,280 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084731179505568 to GetStateRequest (106d86520)
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 20 bytes for sending
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:35,280 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084731180424912 to MsgsAck (106d773a0)
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 44 bytes for sending
+2024-07-13 19:43:35,280 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084731180881720 to GetStateRequest (106d77a30)
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 20 bytes for sending
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:35,280 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084731181657056 to MsgsAck (106d77bb0)
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:35,280 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:35,482 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084731179505568
+2024-07-13 19:43:35,483 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:35,489 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084731180881720
+2024-07-13 19:43:35,489 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:47,365 - telethon.network.mtprotosender - DEBUG - Handling gzipped data
+2024-07-13 19:43:47,367 - telethon.network.mtprotosender - DEBUG - Handling update Updates
+2024-07-13 19:43:47,367 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:47,624 - telethon.network.mtprotosender - DEBUG - Handling update UpdateShort
+2024-07-13 19:43:47,624 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:47,625 - telethon.network.mtprotosender - DEBUG - Handling update UpdateShortMessage
+2024-07-13 19:43:47,625 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:47,625 - __main__ - INFO - Received message: lol
+2024-07-13 19:43:47,626 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084784104669340 to SendMessageRequest (106e184f0)
+2024-07-13 19:43:47,626 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 64 bytes for sending
+2024-07-13 19:43:47,626 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:47,626 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:47,626 - telethon.extensions.messagepacker - DEBUG - Assigned msg_id = 7391084784105912932 to MsgsAck (106d86cd0)
+2024-07-13 19:43:47,626 - telethon.network.mtprotosender - DEBUG - Encrypting 1 message(s) in 36 bytes for sending
+2024-07-13 19:43:47,627 - telethon.network.mtprotosender - DEBUG - Encrypted messages put in a queue to be sent
+2024-07-13 19:43:47,627 - telethon.network.mtprotosender - DEBUG - Waiting for messages to send...
+2024-07-13 19:43:47,856 - telethon.network.mtprotosender - DEBUG - Handling RPC result for message 7391084784104669340
+2024-07-13 19:43:47,857 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:47,857 - __main__ - INFO - Forwarded message: lol
+2024-07-13 19:43:47,858 - telethon.network.mtprotosender - DEBUG - Handling update UpdateShortMessage
+2024-07-13 19:43:47,858 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:47,862 - telethon.network.mtprotosender - DEBUG - Handling update Updates
+2024-07-13 19:43:47,862 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:48,116 - telethon.network.mtprotosender - DEBUG - Handling update Updates
+2024-07-13 19:43:48,116 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:43:51,222 - telethon.network.mtprotosender - DEBUG - Handling update Updates
+2024-07-13 19:43:51,223 - telethon.network.mtprotosender - DEBUG - Receiving items from the network...
+2024-07-13 19:44:00,760 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:44:00,960 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:44:02,171 - __main__ - INFO - Bot client started
+2024-07-13 19:44:02,172 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:44:02,377 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:44:03,681 - __main__ - INFO - User client started
+2024-07-13 19:44:03,682 - __main__ - INFO - Listening for messages...
+2024-07-13 19:44:17,439 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:44:17,644 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:44:18,734 - __main__ - INFO - Bot client started
+2024-07-13 19:44:18,734 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:44:18,953 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:44:20,292 - __main__ - INFO - User client started
+2024-07-13 19:44:20,292 - __main__ - INFO - Listening for messages...
+2024-07-13 19:45:16,583 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:45:16,812 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:45:19,217 - __main__ - INFO - Bot client started
+2024-07-13 19:45:19,477 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-07-13 19:45:19,679 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-07-13 19:45:21,077 - __main__ - INFO - User client started
+2024-07-13 19:45:21,078 - __main__ - INFO - Listening for messages...
